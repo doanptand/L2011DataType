@@ -13,6 +13,6 @@ class StudentOpenHelper(context: Context) :
     }
 
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
-        
+
     }
 }
